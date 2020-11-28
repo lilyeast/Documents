@@ -1,0 +1,221 @@
+
+
+============================================================
+C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe
+2020-11-25 20:07:37
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.exe> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.sgn> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\version.txt.tmp> is missing - good!
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: Switched to State_Downloading
+UpdateState: All files downloaded and autoinstall - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("C:\Program Files (x86)\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/system_2020.11.19.01_2020.10.28.02.pkg    Path: \                                        Version: 2020.11.19.01    fromVersion: 2020.10.28.02
+File: /updates/cars_dirtsprint_2020.08.21.02.pkg         Path: cars\dirtsprint\                         Version: 2020.08.21.02    fromVersion: 
+File: /updates/cars_stockcars_2020.08.26.02.pkg          Path: cars\stockcars\                          Version: 2020.08.26.02    fromVersion: 
+File: /updates/cars_stockcars2_2020.09.16.02.pkg         Path: cars\stockcars2\                         Version: 2020.09.16.02    fromVersion: 
+File: /updates/cars_trucks_2020.09.16.02.pkg             Path: cars\trucks\                             Version: 2020.09.16.02    fromVersion: 
+File: /updates/cars_v8supercars_2020.09.16.02.pkg        Path: cars\v8supercars\                        Version: 2020.09.16.02    fromVersion: 
+File: /updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg Path: httproot\cars\stockcars\fordfusion\      Version: 2020.11.19.01    fromVersion: 2020.10.19.02
+File: /updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg Path: httproot\cars\stockcars2\camaro2019\     Version: 2020.11.19.01    fromVersion: 2020.10.19.02
+STATUS: Checking for Updater packages...
+
+STATUS: Verifying Downloaded Files...
+
+/updates/system_2020.11.19.01_2020.10.28.02.pkg
+/updates/cars_dirtsprint_2020.08.21.02.pkg
+... 12% overall
+/updates/cars_stockcars_2020.08.26.02.pkg
+... 25% overall
+/updates/cars_stockcars2_2020.09.16.02.pkg
+... 37% overall
+/updates/cars_trucks_2020.09.16.02.pkg
+... 50% overall
+/updates/cars_v8supercars_2020.09.16.02.pkg
+... 62% overall
+/updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+... 75% overall
+/updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+... 87% overall
+STATUS: Updating...
+
+...  0% overall
+STATUS: Updating...
+/updates/system_2020.11.19.01_2020.10.28.02.pkg
+package: \   toVersion: 2020.11.19.01  fromVersion: 2020.10.28.02   currentVersion: 2020.10.28.02   OK TO INSTALL
+STATUS: Updating...
+/updates/cars_dirtsprint_2020.08.21.02.pkg
+package: cars\dirtsprint\   toVersion: 2020.08.21.02  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/cars_dirtsprint_2020.08.21.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_dirtsprint_2020.08.21.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_dirtsprint_2020.08.21.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_dirtsprint_2020.08.21.02.pkg
+STATUS: Updating...
+/updates/cars_stockcars_2020.08.26.02.pkg
+... 12% overall
+package: cars\stockcars\   toVersion: 2020.08.26.02  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars_2020.08.26.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars_2020.08.26.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars_2020.08.26.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars_2020.08.26.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars_2020.08.26.02.pkg
+STATUS: Updating...
+/updates/cars_stockcars2_2020.09.16.02.pkg
+... 25% overall
+package: cars\stockcars2\   toVersion: 2020.09.16.02  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_stockcars2_2020.09.16.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_stockcars2_2020.09.16.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_stockcars2_2020.09.16.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_stockcars2_2020.09.16.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_stockcars2_2020.09.16.02.pkg
+STATUS: Updating...
+/updates/cars_trucks_2020.09.16.02.pkg
+... 37% overall
+package: cars\trucks\   toVersion: 2020.09.16.02  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_trucks_2020.09.16.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_trucks_2020.09.16.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_trucks_2020.09.16.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_trucks_2020.09.16.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_trucks_2020.09.16.02.pkg
+STATUS: Updating...
+/updates/cars_v8supercars_2020.09.16.02.pkg
+... 50% overall
+package: cars\v8supercars\   toVersion: 2020.09.16.02  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/cars_v8supercars_2020.09.16.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/cars_v8supercars_2020.09.16.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_v8supercars_2020.09.16.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_v8supercars_2020.09.16.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_v8supercars_2020.09.16.02.pkg
+STATUS: Updating...
+/updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+... 62% overall
+package: httproot\cars\stockcars\fordfusion\   toVersion: 2020.11.19.01  fromVersion: 2020.10.19.02   currentVersion: 2020.10.19.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating...
+/updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+... 75% overall
+package: httproot\cars\stockcars2\camaro2019\   toVersion: 2020.11.19.01  fromVersion: 2020.10.19.02   currentVersion: 2020.10.19.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+Some package claimed to be an iRacingService dependant.  Must stop service(s)
+STATUS: Stopping iRacingService...
+
+...  0% 
+...  0% overall
+USS:IsRunning() iRacingService is running
+USS::Stop() asked service iRacingService to stop
+USS::Stop() Stopped service iRacingService
+USS:IsRunning() iRacingService is NOT running
+STATUS: Uninstalling iRacingService...
+
+USS:IsInstalled() iRacingService is installed
+USS:IsRunning() iRacingService is NOT running
+USS::Uninstall() Uninstalled service iRacingService
+STATUS: Stopping iRacingCommercialService...
+
+...  0% overall
+STATUS: Uninstalling iRacingCommercialService...
+
+STATUS: Updating...
+
+STATUS: Updating...
+/updates/system_2020.11.19.01_2020.10.28.02.pkg
+... 87% overall
+package: \   toVersion: 2020.11.19.01  fromVersion: 2020.10.28.02   currentVersion: 2020.10.28.02   OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/system_2020.11.19.01_2020.10.28.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/system_2020.11.19.01_2020.10.28.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/system_2020.11.19.01_2020.10.28.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/system_2020.11.19.01_2020.10.28.02.pkg
+STATUS: Updating...
+/updates/cars_dirtsprint_2020.08.21.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars_2020.08.26.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_stockcars2_2020.09.16.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_trucks_2020.09.16.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/cars_v8supercars_2020.09.16.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_stockcars_fordfusion_2020.11.19.01_2020.10.19.02.pkg
+...100% overall
+STATUS: Updating...
+/updates/httproot_cars_stockcars2_camaro2019_2020.11.19.01_2020.10.19.02.pkg
+...100% overall
+USS::Install() Installed service iRacingService
+USS::Start() Started service iRacingService
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-11-25 20:10:15
+============================================================
+

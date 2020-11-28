@@ -1,0 +1,22 @@
+---
+CalibrationInfo:
+ DeviceList:
+ - DeviceName: 'Thrustmaster TMX Racing Wheel'
+   InstanceGUID: '{8D5D9210-1F70-11EB-8001-444553540000}'
+   AxisList:
+   - Axis: 0
+     AxisName: 'X Axis'
+     CalibMin: 1156
+     CalibCenter: 32768
+     CalibMax: 64295
+   - Axis: 1
+     AxisName: 'Y Axis'
+     CalibMin: 0
+     CalibCenter: 1023
+     CalibMax: 1023
+   - Axis: 2
+     AxisName: 'Throttle'
+     CalibMin: 0
+     CalibCenter: 1023
+     CalibMax: 1023
+...

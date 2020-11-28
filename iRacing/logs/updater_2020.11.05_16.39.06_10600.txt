@@ -1,0 +1,73 @@
+
+
+============================================================
+C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe
+2020-11-05 16:39:06
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.exe> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.sgn> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\version.txt.tmp> is missing - good!
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: Switched to State_Downloading
+UpdateState: All files downloaded and autoinstall - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("C:\Program Files (x86)\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/cars_protrucks_pro2lite_2020.09.16.02.pkg Path: cars\protrucks\pro2lite\                 Version: 2020.09.16.02    fromVersion: 
+File: /updates/tracks_phoenix_2020.08.28.01.pkg          Path: tracks\phoenix\                          Version: 2020.08.28.01    fromVersion: 
+STATUS: Checking for Updater packages...
+
+STATUS: Verifying Downloaded Files...
+
+/updates/cars_protrucks_pro2lite_2020.09.16.02.pkg
+/updates/tracks_phoenix_2020.08.28.01.pkg
+... 50% overall
+STATUS: Updating...
+
+...  0% overall
+STATUS: Updating...
+/updates/cars_protrucks_pro2lite_2020.09.16.02.pkg
+package: cars\protrucks\pro2lite\   toVersion: 2020.09.16.02  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/cars_protrucks_pro2lite_2020.09.16.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_protrucks_pro2lite_2020.09.16.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_protrucks_pro2lite_2020.09.16.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_protrucks_pro2lite_2020.09.16.02.pkg
+STATUS: Updating...
+/updates/tracks_phoenix_2020.08.28.01.pkg
+... 50% overall
+package: tracks\phoenix\   toVersion: 2020.08.28.01  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+...  0% /updates/tracks_phoenix_2020.08.28.01.pkg
+STATUS: Updating... Creating new files
+... 25% /updates/tracks_phoenix_2020.08.28.01.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/tracks_phoenix_2020.08.28.01.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/tracks_phoenix_2020.08.28.01.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/tracks_phoenix_2020.08.28.01.pkg
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-11-05 16:44:49
+============================================================
+

@@ -1,0 +1,62 @@
+
+
+============================================================
+C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe
+2020-11-08 09:51:15
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.exe> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.sgn> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\version.txt.tmp> is missing - good!
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: Switched to State_Downloading
+UpdateState: All files downloaded and autoinstall - begin updating
+STATUS: Starting updater thread...
+
+UpdateState: Switched to State_Updating
+Updater Thread Started!
+STATUS: Updating thread started...
+
+PkgUpdater::SetRootPath("C:\Program Files (x86)\iRacing\")
+STATUS: Preparing packages...
+
+File: /updates/cars_radical_sr8_2020.09.16.02.pkg        Path: cars\radical\sr8\                        Version: 2020.09.16.02    fromVersion: 
+STATUS: Checking for Updater packages...
+
+STATUS: Verifying Downloaded Files...
+
+/updates/cars_radical_sr8_2020.09.16.02.pkg
+STATUS: Updating...
+
+STATUS: Updating...
+/updates/cars_radical_sr8_2020.09.16.02.pkg
+package: cars\radical\sr8\   toVersion: 2020.09.16.02  fromVersion:    currentVersion:    OK TO INSTALL
+STATUS: Updating... Verifying files to update
+STATUS: Updating... Creating new files
+... 25% /updates/cars_radical_sr8_2020.09.16.02.pkg
+STATUS: Updating... Applying new files
+... 65% /updates/cars_radical_sr8_2020.09.16.02.pkg
+STATUS: Updating... Verifying files after update
+... 75% /updates/cars_radical_sr8_2020.09.16.02.pkg
+STATUS: Updating... Deleting temp files
+...100% /updates/cars_radical_sr8_2020.09.16.02.pkg
+Updater Thread Ended!
+UpdateState: Updater thread stopped, and OK return value - Complete.
+UpdateState: Switched to State_Complete
+get_dload_status2 failed with <1> <0>
+UpdateState: Switched to State_TimedOut
+UpdateState: Switched to State_Complete
+get_dload_status2 failed with <1> <0>
+UpdateState: Switched to State_TimedOut
+get_dload_status2 failed with <1> <0>
+UpdateState: Switched to State_Complete
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-11-08 10:22:32
+============================================================
+

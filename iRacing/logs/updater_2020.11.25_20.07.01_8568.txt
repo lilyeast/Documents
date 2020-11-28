@@ -1,0 +1,23 @@
+
+
+============================================================
+C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe
+2020-11-25 20:07:01
+===================
+OS: Maj: 6, Min: 2, SPMaj: 0, SPMin: 0; Windows 7 - x64
+** Program is running as a user with admin privs
+** Token is elevated
+** Token is elevated to Full
+
+DeleteTempExe: I am <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.exe>
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.exe> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\iRacingUpdater.tmp.sgn> is missing - good!
+DeleteTempExe: <C:\Program Files (x86)\iRacing\updater\version.txt.tmp> is missing - good!
+DeleteTempExe: exe, sgn and ver temps are now missing - done!
+UpdateState: Switched to State_Downloading
+UpdateState: Switched to State_Stopped
+CheckIfEACInstalled: Found <C:\Program Files (x86)\EasyAntiCheat\EasyAntiCheat.exe> - appears to be installed.
+===================
+2020-11-25 20:07:14
+============================================================
+
